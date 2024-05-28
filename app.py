@@ -1,5 +1,3 @@
-##Let's add some more excitement to this challenge and make the game multiplayer, where the computer will be your opponent and can randomly choose one of the elements (rock, paper, or scissors) for each move, just like you. Your interaction in the game will be through the console (Terminal).
-
 #The player can choose one of the three options rock, paper, or scissors and should be warned if they enter an invalid option.
 #At each round, the player must enter one of the options in the list and be informed if they won, lost, or tied with the opponent.
 #By the end of each round, the player can choose whether to play again.
